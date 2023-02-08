@@ -1,0 +1,21 @@
+% Topicos Especiais - Unidade 4
+@relation food
+@attribute leite {yes, no}
+@attribute cafe {yes, no}
+@attribute cerveja {yes, no}
+@attribute pao {yes, no}
+@attribute manteiga {yes, no}
+@attribute arroz {yes, no}
+@attribute feijao {yes, no}
+@data
+no, yes, no, yes, yes, no, no
+yes, no, yes, yes, yes, no, no
+no, yes, no, yes, yes, no, no
+yes, yes, no, yes, yes, no, no
+no, no, yes, no, no, no, no
+no, no, no, no yes, no, no
+no, no, no, yes, no, no, no
+no, no, no, no, no, no, yes
+no, no, no, no, no, yes, yes
+no, no, no, no, no, yes, no
+

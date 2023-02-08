@@ -1,0 +1,3 @@
+DataFrames é uma estrutura de dados da biblioteca Pandas em que os dados são transformados em matrizes, distribuídos em linhas e colunas.
+Pode ser utilizado para criação de tabelas, junção de tabelas com colunas semelhantes, escrever em csv, json, sql, excel, html e outros, 
+transposição de matrizes e descobrir quais valores são nulos. 

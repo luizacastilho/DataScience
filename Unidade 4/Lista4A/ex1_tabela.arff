@@ -1,0 +1,18 @@
+% Tópicos Especiais - Unidade 4
+% Exercício 1 - Conjunto de dados
+@relation debt.symbolic
+@attribute impostoderenda {sim, nao}
+@attribute estadocivil {solteiro, casado, separado}
+@attribute renda {>75, =<75}
+@attribute maupagador {sim, nao}
+@data
+sim, solteiro, >75, nao
+nao, casado, >75, nao
+nao, solteiro, =<75, nao
+sim, casado, >75, nao
+nao, separado, >75, sim
+nao, casado, =<75, nao
+sim, separado, >75, nao
+nao, solteiro, >75, sim
+nao, casado, =<75, nao
+nao, solteiro, >75, sim

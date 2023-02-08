@@ -1,0 +1,4 @@
+JSON é um formato de texto para estrutura de dados baseado na sintaxe de objetos em JavaScript, mas que pode ser usada por outras 
+linguagens computacionais.
+Pode ser usado para obter dados de um site, transformar um DataFrame em um JSON, serializar/deserializar objetos em python, simplificar estrutura de dados
+e formatação e ordenação de resultados.
